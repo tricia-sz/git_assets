@@ -1,13 +1,13 @@
 id,nome,destaque,descricao,imagem
 1,HTML,true,Linguagem de marcação para estruturação de páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/HTML5.svg
 2,CSS,true,Linguagem de estilos para definição do design e layout das páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/CSS3.svg
-3,JavaScript,true,Linguagem de programação para interatividade em páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/JavaScript.svg
+3,JavaScript,true,Linguagem de programação para interatividade em páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/javascriptL.svg
 4,Tailwind CSS,true,Framework CSS para construção de interfaces de usuário.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/TailwindCSS.svg
 5,Figma,true,Figma.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Figma.svg
 6,React,true,Biblioteca JavaScript para construção de interfaces de usuário.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/React.svg
-7,Next.js,true,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nextjs.svg
+7,Next.js,true,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/nextL.svg
 8,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/TypeScript.svg
-9,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Node.js.svg
+9,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nodejs.svg
 10,Express.js,false,Framework web minimalista para Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Express.svg
 11,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nestjs.svg
 12,AWS,true,AWS.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AWS.svg
@@ -28,7 +28,7 @@ id,nome,destaque,descricao,imagem
 27,SpringBoot,false,Springboot.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Spring.svg
 28,Python,false,Linguagem de programação interpretada de alto nível.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Python.svg
 29,Ruby,true,Ruby On Rails,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Ruby.svg
-30,Deno,true,Deno,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Deno.svg
+30,Distros Linux,false,Distros Linux,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Linux.svg
 31,Angular,false,Framework front-end desenvolvido pelo Google.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AngularJS.svg
 32,Svelte,false,Framework para construção de interfaces reativas.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Svelte.svg
 33,Kubernetes,false,"Sistema para automação da implantação, escalonamento e operações de containers.",https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/kubernetesL.svg
