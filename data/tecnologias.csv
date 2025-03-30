@@ -3,39 +3,39 @@ id,nome,destaque,descricao,imagem
 2,CSS,true,Linguagem de estilos para definição do design e layout das páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/CSS3.svg
 3,JavaScript,true,Linguagem de programação para interatividade em páginas web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/JavaScript.svg
 4,Tailwind CSS,true,Framework CSS para construção de interfaces de usuário.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/TailwindCSS.svg
-34,Figma,true,Figma.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Figma.svg
-10,React,true,Biblioteca JavaScript para construção de interfaces de usuário.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/React.svg
-5,Next.js,true,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nextjs.svg
-4,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/TypeScript.svg
-5,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Node.js.svg
-9,Express.js,false,Framework web minimalista para Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Express.svg
-8,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nestjs.svg
-30,AWS,true,AWS.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AWS.svg
-33,Azure,true,Azure,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Azure.svg
-17,Docker,true,"Plataforma para criação, execução e gerenciamento de containers.",https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Docker.svg
-29,Linux,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Linux.svg
-23,Prisma,true,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/prismaL.svg
-15,MongoDB,true,Banco de dados NoSQL orientado a documentos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/MongoDB.svg
-14,PostgreSQL,true,Sistema de gerenciamento de banco de dados relacional avançado.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/PostgresSQL.svg
-24,Supabase,false,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/supabase.svg
-16,SQLite,false,SQLite,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/SQLite.svg
-16,Go,false,Linguagem de consulta para APIs que permite obter apenas os dados necessários.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Go.svg
-7,Arch Linux,true,Arch Linux.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/ArchLinux.svg
-32,Ubuntu,true,Ubuntu,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Ubuntu.svg
-32,Debian,true,Debian,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Debian.svg
-32,Swagger,true,Swagger.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Swagger.svg
-6,Java,false,Linguagem de programação orientada a objetos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Java.svg
-31,SpringBoot,false,Springboot.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Spring.svg
-11,Python,false,Linguagem de programação interpretada de alto nível.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Python.svg
-33,Ruby,false,Ruby On Rails,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Ruby.svg
-33,Deno,true,Deno,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Deno.svg
-12,Angular,false,Framework front-end desenvolvido pelo Google.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AngularJS.svg
-13,Svelte,false,Framework para construção de interfaces reativas.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Svelte.svg
-18,Kubernetes,false,"Sistema para automação da implantação, escalonamento e operações de containers.",https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/kubernetesL.svg
-19,Terraform,false,Ferramenta de infraestrutura como código para gerenciamento de recursos na nuvem.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/terraformL.svg
-20,Firebase,false,Plataforma de desenvolvimento de aplicativos móveis e web da Google.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Firebase.svg
-26,Flutter,true,Framework para desenvolvimento de aplicativos móveis nativos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Flutter.svg
-27,PHP,false,Linguagem de programação de uso geral.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/phpL.svg
-28,ChatGPT,false,API de conversação baseada em GPT-3.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/openaiL.svg
-29,Dart,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/dartL.svg
-21,React Native,false,Biblioteca para desenvolvimento de aplicativos móveis com React.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/reactL.svg
+5,Figma,true,Figma.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Figma.svg
+6,React,true,Biblioteca JavaScript para construção de interfaces de usuário.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/React.svg
+7,Next.js,true,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nextjs.svg
+8,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/TypeScript.svg
+9,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Node.js.svg
+10,Express.js,false,Framework web minimalista para Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Express.svg
+11,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Nestjs.svg
+12,AWS,true,AWS.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AWS.svg
+13,Azure,true,Azure,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Azure.svg
+14,Docker,true,"Plataforma para criação, execução e gerenciamento de containers.",https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Docker.svg
+15,Linux,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Linux.svg
+16,Prisma,true,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/prismaL.svg
+17,MongoDB,true,Banco de dados NoSQL orientado a documentos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/MongoDB.svg
+18,PostgreSQL,true,Sistema de gerenciamento de banco de dados relacional avançado.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/PostgresSQL.svg
+19,Supabase,true,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/supabase.svg
+20,SQLite,false,SQLite,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/SQLite.svg
+21,Go,false,Linguagem de consulta para APIs que permite obter apenas os dados necessários.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Go.svg
+22,Arch Linux,true,Arch Linux.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/ArchLinux.svg
+23,Ubuntu,true,Ubuntu,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Ubuntu.svg
+24,Debian,true,Debian,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Debian.svg
+25,Swagger,true,Swagger.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Swagger.svg
+26,Java,false,Linguagem de programação orientada a objetos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Java.svg
+27,SpringBoot,false,Springboot.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Spring.svg
+28,Python,false,Linguagem de programação interpretada de alto nível.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Python.svg
+29,Ruby,true,Ruby On Rails,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Ruby.svg
+30,Deno,true,Deno,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Deno.svg
+31,Angular,false,Framework front-end desenvolvido pelo Google.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/AngularJS.svg
+32,Svelte,false,Framework para construção de interfaces reativas.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Svelte.svg
+33,Kubernetes,false,"Sistema para automação da implantação, escalonamento e operações de containers.",https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/kubernetesL.svg
+34,Terraform,false,Ferramenta de infraestrutura como código para gerenciamento de recursos na nuvem.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/terraformL.svg
+35,Firebase,false,Plataforma de desenvolvimento de aplicativos móveis e web da Google.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Firebase.svg
+36,Flutter,false,Framework para desenvolvimento de aplicativos móveis nativos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Flutter.svg
+37,PHP,false,Linguagem de programação de uso geral.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/phpL.svg
+38,ChatGPT,false,API de conversação baseada em GPT-3.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/openaiL.svg
+39,Dart,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/dartL.svg
+40,React Native,false,Biblioteca para desenvolvimento de aplicativos móveis com React.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/reactL.svg
