@@ -17,7 +17,7 @@ id,nome,destaque,descricao,imagem
 23,Prisma,true,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/prismaL.svg
 15,MongoDB,true,Banco de dados NoSQL orientado a documentos.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/MongoDB.svg
 14,PostgreSQL,true,Sistema de gerenciamento de banco de dados relacional avançado.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/PostgresSQL.svg
-24,Supabase,false,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/graphqlL.svg
+24,Supabase,false,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/supabase.svg
 16,SQLite,false,SQLite,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/SQLite.svg
 16,Go,false,Linguagem de consulta para APIs que permite obter apenas os dados necessários.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/Go.svg
 7,Arch Linux,true,Arch Linux.,https://raw.githubusercontent.com/tricia-sz/git_assets/refs/heads/main/images/ArchLinux.svg
