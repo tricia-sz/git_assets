@@ -1,2 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><title>file_type_solidity</title><path d="M20.477,2l-4.5,8h-9l4.5-8h9" style="fill:#c1c1c1;opacity:0.45;isolation:isolate"/><path d="M11.52,30l4.5-8h9l-4.5,8h-9" style="fill:#c1c1c1;opacity:0.45;isolation:isolate"/><path d="M15.975,10h9l-4.5-8h-9Z" style="fill:#c1c1c1;opacity:0.6;isolation:isolate"/><path d="M16.022,22h-9l4.5,8h9Z" style="fill:#c1c1c1;opacity:0.6;isolation:isolate"/><path d="M11.477,18l4.5-8-4.5-8-4.5,8Z" style="fill:#c1c1c1;opacity:0.8;isolation:isolate"/><path d="M20.52,14l-4.5,8,4.5,8,4.5-8Z" style="fill:#c1c1c1;opacity:0.8;isolation:isolate"/></svg>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M25 15L18.5 4L12 15H25Z" fill="white"/>
+<path d="M38 15L31.5 4L25 15H38Z" fill="#C3C3C3"/>
+<path d="M18.5 4L25 15L31.5 4H18.5Z" fill="#CDCDCD"/>
+<path d="M12 15L18.5 26L25 15H12Z" fill="#CDCDCD"/>
+<path d="M25 33L31.5 44L38 33H25Z" fill="white"/>
+<path d="M12 33L18.5 44L25 33H12Z" fill="#C3C3C3"/>
+<path d="M31.5 44L25 33L18.5 44H31.5Z" fill="#CDCDCD"/>
+<path d="M38 33L31.5 22L25 33H38Z" fill="#CDCDCD"/>
+</svg>
